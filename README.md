@@ -10,4 +10,5 @@ A website that satisfies all the needs prevailing in the domain of health care.
 ### NOTE: place the password of ur local host in the "dbconnect.php" file available in the conn folder in the assets folder.
 ### Once done with this...use the link "localhost/userregistration/login.php" to get the website live
 ### note: The folders for chatbot are available in the userregistration folder itself. It has been exhibited separately again just to distinct it from the other folders.
+### link for drive: https://drive.google.com/drive/folders/1IoLeO7wWDwdJ7vHgEhgLCsX5SeIPY-D5?usp=sharing
 
